@@ -84,6 +84,8 @@ ENV/
 
 # Spyder project settings
 .spyderproject
+.idea/*
+.ipynb_checkpoints/*
 
 # Rope project settings
 .ropeproject
